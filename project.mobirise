@@ -1,13 +1,15 @@
 {
   "settings": {
-    "name": "My Site",
-    "currentPage": "Beltshop.html",
+    "name": "BeltSpc",
+    "currentPage": "Home.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 42,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": []
-    }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/23795803-273258219864012-5118132319316136056-n-128x129.png",
+    "noImageResize": ""
   },
   "pages": {
     "Beltshop.html": {
